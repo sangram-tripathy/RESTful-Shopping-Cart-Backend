@@ -1,0 +1,13 @@
+{
+  "3ae2a258-122d-4e69-8baa-8ed861f795a5": {
+    "cartId": "3ae2a258-122d-4e69-8baa-8ed861f795a5",
+    "Items": [
+      {
+        "itemId": "1234",
+        "itemName": "Mobiles",
+        "price": 1000,
+        "quantity": 3
+      }
+    ]
+  }
+}
